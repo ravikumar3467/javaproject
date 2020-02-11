@@ -9,6 +9,7 @@ public class BaseTest {
 	public static String projectpath =System.getProperty("user.dir");
 	public static Properties e;
 	public static Properties envprop;
+	int a=100,b=200,c=300;
 	
 	
 	
